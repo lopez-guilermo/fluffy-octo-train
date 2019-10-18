@@ -19,3 +19,8 @@ production:
   database: splurty_production
   # username: splurty
   # password: <%= ENV['SPLURTY_DATABASE_PASSWORD'] %>
+ 
+ 
+ 
+ 
+ 
