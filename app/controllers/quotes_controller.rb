@@ -1,4 +1,4 @@
 class QuotesController < ApplicationController
-  def index
+	def index
   end
 end
