@@ -1,2 +1,0 @@
-class Quot < ApplicationRecord
-end
