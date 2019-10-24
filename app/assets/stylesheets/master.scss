@@ -1,4 +1,12 @@
-@import "bootstrap";
+@import "bootstrap"
+h1 {
+  font-family: 'nobileregular', sans-serif;
+  font-weight: bold;
+  font-size: 48px;
+}
+h2 {
+  font-family: 'nobilemedium_italic', sans-serif;
+}
 
 .clear {
   clear: both;
@@ -9,7 +17,7 @@
     position: relative;
     border-radius: 100%;
     background: #f84342;
-    border: 1px solid #F7F7F7;
+    border: 1px solid #F7F7F7;ap
     width: 80px;
     height: 80px;
     margin: 10px 10px;
@@ -27,3 +35,34 @@
  font-style: italic;
  padding-top: 26px;
 }
+.links {
+  padding-top: 26px;
+}
+.links a {
+  color: black;
+  font-size: 25px;
+  border-bottom: 1px solid #dfdfdf;
+  font-family: 'nobileregular', sans-serif;
+  font-weight: bold;
+}
+header {
+
+  border-top: 9px solid #222222
+}
+hr {
+  clear: both;
+}
+h1 {
+  font-family: 'Playfair Display', serif;
+}
+
+h2 {
+  font-family: 'Playfair Display', serif;
+}
+
+
+
+
+
+
+
